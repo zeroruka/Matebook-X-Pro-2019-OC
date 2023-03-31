@@ -3,6 +3,10 @@ OC Version: 0.8.4
 
 Supports Latest Versions of MacOS
 
+This Config is preconfigured with refind, and supports dual boot with windows
+
+Add /BootOC/bootx64.efi into your boot entry and select that to boot.
+
 ## What works?
 - Turbo boost and CPU frequency stage
 - Integrated Graphics
